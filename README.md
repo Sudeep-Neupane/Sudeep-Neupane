@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sudeep-Neupane
-- 🌱 I’m currently learning Python (from Beginning)
+- 🌱 I’m currently learning
 - 📫 How to reach me :
